@@ -16,8 +16,6 @@
     <!-- Le corps -->
     
     <main>
-        <h1>Mon super site</h1>
-        
         <p>Grâce au mot de passe "password" vous pourrez accéder au boss final des internet qui vous révéleras la réponse à la grande question sur la vie, l'univers et le reste ainsi que le fameux secret perdu de l'acier</p>
 
 	<form method="post" action="cible.php">
@@ -31,7 +29,7 @@
     <!-- Le pied de page -->
     
     <footer id="pied_de_page">
-        <p>Copyright 20147 - Renaud BERNARD</p>
+        <p>Copyright 2017 - Renaud BERNARD</p>
     </footer>
     
     </body>

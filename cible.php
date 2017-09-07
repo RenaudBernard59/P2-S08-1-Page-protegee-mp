@@ -1,6 +1,6 @@
 <?php
 
-if ((htmlspecialchars($_POST['password'])) == "password") {
+if ((htmlspecialchars($_POST['pass'])) == "password") {
 ?>
 
 <!DOCTYPE html>
@@ -27,13 +27,14 @@ if ((htmlspecialchars($_POST['password'])) == "password") {
     <p><strong>Ah c'est con !!!</strong><br/>Cette page a été optimisée pour Internet Explorer sur Macintoch et ne peut donc pas s'afficher sur votre appareil. 
     </p>
      
+    <p><a href="index.php" title="Revenir à la page précédente">Come back</a></p>
     
     </main>
     
     <!-- Le pied de page -->
     
     <footer id="pied_de_page">
-        <p>Copyright 20147 - Renaud BERNARD</p>
+        <p>Copyright 2017 - Renaud BERNARD</p>
     </footer>
     
     </body>
@@ -71,7 +72,7 @@ if ((htmlspecialchars($_POST['password'])) == "password") {
     
     <footer id="pied_de_page">
 
-        <p>Copyright 20147 - Renaud BERNARD</p>
+        <p>Copyright 2017 - Renaud BERNARD</p>
     </footer>
     
     </body>
